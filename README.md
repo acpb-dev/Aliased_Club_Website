@@ -4,7 +4,7 @@ This is the source code of my personnal website that was made as a side project 
 
 <div align="center">
   <kbd>
-    <img src="https://imgur.com/a/F2sZI5L" />
+    <img src="https://i.imgur.com/uPTSm4W.png" />
   </kbd>
 </div>
 
