@@ -14,8 +14,7 @@ This project is only made as display with no connectivity in mind. It's primary 
 
 ### Built with
 
-- HTML
-- HTML LIBRARY : BOOTSTRAP
+- HTML // BOOTSTRAP
 - CSS
 - JS
 
